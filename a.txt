@@ -1,1 +1,3 @@
-qwerty
+FROM alpine
+RUN pwd
+RUN uname -a
